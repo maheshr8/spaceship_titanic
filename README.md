@@ -7,7 +7,9 @@ Dataset is from the following link:
 https://www.kaggle.com/competitions/spaceship-titanic/data
 
 Kaggle Score with Linear Discriminant Analysis:
+
 SCORE = 0.76128
 
 Kaggle Score with Gaussian Naive Bayes Classifier:
+
 SCORE = 0.75637
