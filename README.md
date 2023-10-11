@@ -5,3 +5,6 @@ The aim of this project is to predict whether a passenger was transported to an 
 Dataset is from the following link:
 
 https://www.kaggle.com/competitions/spaceship-titanic/data
+
+Kaggle Score with Linear Discriminant Analysis:
+SCORE = 0.76128
